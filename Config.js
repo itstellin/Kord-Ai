@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
-  BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'your_sessionid', // replace your_sessionid with yours and make sure its inside rhe quotes
+  OWNER_NUMBERS: "2347082081297", // your number with country code
+  OWNER_NAME: 'Frank', // your owner name 
+  BOT_NAME: "Tellin", // your preferred bot name
+  SESSION_ID: 'kord_ai-ZMne3l619r6z', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
@@ -32,7 +32,7 @@ global.settings = {
   isHackEnable: true,
   SAFE_SEARCH: true,
   REJECT_CALLS: true,
-  SEND_WELCOME_MESSAGE: false,
+  SEND_WELCOME_MESSAGE: true,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
   BAD_WORD_FILTER: true,
